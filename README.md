@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/asifur8282/asifur8282/output/snake.svg" alt="Snake animation" />
+
 
 ###
