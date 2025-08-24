@@ -40,23 +40,54 @@
 ---
 
 # 📊 GitHub Stats:
+
+<table>
+<tr>
+<td width="60%">
+
 ![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false)
+
+</td>
+<td width="40%">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔝 Top Contributed Repo + Contribution Graph
+
+<table>
+<tr>
+<td width="60%">
+
+![](https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="200" alt="activity graph" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="150" alt="activity graph"  />
-</div>
+---
 
+### 🎉 Fun GIF
+<img src="assets/yourgif.gif" width="400" alt="fun gif" />
 
 ---
+
 ###
 <img src="https://raw.githubusercontent.com/asifur8282/asifur8282/output/snake.svg" alt="Snake animation" />
 
