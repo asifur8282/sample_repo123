@@ -28,7 +28,6 @@
 
 
 ###
-</div>
   <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*1fOKSM9na9IBROxm.gif"  />
 ###
 <div align="center">
@@ -40,7 +39,6 @@
 
 ###
 
-###
 
 <br clear="both">
 
