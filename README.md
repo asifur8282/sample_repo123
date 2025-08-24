@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="225" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*1fOKSM9na9IBROxm.gif"  />
+
 
 ###
 
@@ -25,11 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 
-  <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*1fOKSM9na9IBROxm.gif"  />
+
 
 ###
 </div>
-
+  <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*1fOKSM9na9IBROxm.gif"  />
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=asifur8282&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
