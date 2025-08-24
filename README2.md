@@ -1,16 +1,4 @@
 <h2 align="left">Hi 👋! I am Asifur and I'm a ML/CV enthusiast from India</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="150" alt="activity graph"  />
-</div>
-
-###
-
-
-
-
 ---
 
 # 💫 About Me:
@@ -63,6 +51,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="150" alt="activity graph"  />
+</div>
+
 
 ---
 ###
