@@ -2,9 +2,23 @@
 ---
 
 # 💫 About Me:
+
+<table>
+<tr>
+<td width="60%">
+  
 🔭 I'm currently working on **Computer Vision and Machine Learning**.<br>  
 🤝 I'm looking for help with **Deep Learning for Human Attention**.<br>  
 🌱 I'm currently learning **Deep Learning with TensorFlow, YOLO Model, and trying to master OpenCV**.  
+
+</td>
+<td width="40%" align="center">
+
+<img src="assets/yourgif.gif" width="250" alt="about me gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,11 +94,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🎉 Fun GIF
-<img src="assets/yourgif.gif" width="400" alt="fun gif" />
 
 ---
 
